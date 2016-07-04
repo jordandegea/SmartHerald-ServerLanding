@@ -1,0 +1,6 @@
+
+# Configuration file for the smarty CLI
+
+smarty: {
+	root: /Volumes/Donnees/Projets/SharedNews/Developpements/Landing/tools/smarty
+}

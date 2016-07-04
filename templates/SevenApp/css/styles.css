@@ -69,7 +69,7 @@ header.masthead .mh-slider {
   font-weight: bold;
 }
 #slider .container h1 {
-  color: #de5749;
+  color: #0099FF;
   margin-top: 70px;
 }
 #slider .container h3 {
@@ -221,11 +221,11 @@ header.masthead .mh-slider {
   transition: all 0.25s ease-in-out;
 }
 #nav .navbar-nav li a:hover {
-  color: #de5749;
+  color: #0099FF;
   background: none;
 }
 #nav .navbar-nav li.active a {
-  color: #de5749;
+  color: #0099FF;
 }
 #nav .navbar-nav.social {
   margin-left: 15px;
@@ -243,7 +243,7 @@ header.masthead .mh-slider {
   color: gray;
 }
 #nav .navbar-nav.social li:hover {
-  background: #de5749;
+  background: #0099FF;
 }
 #nav .navbar-nav.social li:hover a i {
   color: white;
@@ -253,7 +253,7 @@ section {
   padding: 75px 0;
 }
 section#features {
-  background: #de5749;
+  background: #0099FF;
 }
 section#features .feature {
   text-align: center;
@@ -427,7 +427,7 @@ section#download .container .btn-group.small .btn:hover {
 }
 section#settings {
   color: white;
-  background: #de5749;
+  background: #0099FF;
 }
 section#settings img {
   margin-left: 30px;
@@ -460,10 +460,10 @@ section#screenshots .section-heading h3 {
   color: #999999;
 }
 section#screenshots .section-heading h3 span {
-  color: #de5749;
+  color: #0099FF;
 }
 section#screenshots .section-heading .divider {
-  background: #de5749;
+  background: #0099FF;
 }
 section#screenshots .section-heading p {
   color: #999999;
@@ -488,8 +488,8 @@ section#screenshots .owl-next i, section#screenshots .owl-prev i {
   transition: all 0.25s ease-in-out;
 }
 section#screenshots .owl-next:hover i, section#screenshots .owl-prev:hover i {
-  color: #de5749;
-  border-color: #de5749;
+  color: #0099FF;
+  border-color: #0099FF;
 }
 section#screenshots .owl-next i {
   padding-right: inherit;
@@ -660,7 +660,7 @@ section#testimonials .carousel .carousel-indicators li.active {
   height: 18px;
 }
 section#team {
-  background: #de5749;
+  background: #0099FF;
 }
 section#team .car-next, section#team .car-prev {
   text-align: center;
@@ -752,10 +752,10 @@ section#team .member:hover {
   color: #555555;
 }
 section#team .member:hover .media-heading {
-  color: #de5749;
+  color: #0099FF;
 }
 section#team .member:hover .media-heading ul li a i {
-  color: #de5749;
+  color: #0099FF;
 }
 section#team .member:hover span.divider {
   background: #555555;
@@ -897,14 +897,15 @@ footer .social ul li {
   float: left;
 }
 footer .social ul li a {
-  padding: 15px;
+  font-size: 3em;
+  padding: 20px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
   border-radius: 50%;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   display: inline-block;
 }
 footer .social ul li a i {
@@ -974,7 +975,7 @@ footer .rights a {
 
 .btn.btn-default {
   background: white;
-  color: #de5749;
+  color: #0099FF;
 }
 .btn.btn-default:hover {
   background: none;
@@ -987,7 +988,7 @@ footer .rights a {
 }
 .btn.btn-empty:hover {
   background: white;
-  color: #de5749;
+  color: #0099FF;
 }
 
 a {

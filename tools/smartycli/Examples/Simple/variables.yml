@@ -1,0 +1,18 @@
+## YAML Template.
+
+title: Example1
+variables: {
+	inArray: Data hierarchically ordered in array,
+  deep: {
+		in: {
+			array: Data deeply nested in array.
+    }
+  }
+}
+
+someArray: {
+	Homer: D'oh,
+  MrBurns: Excellent,
+  Bart: Eat my shorts,
+  Bender: Bite my shiny metal ass
+}

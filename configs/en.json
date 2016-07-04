@@ -1,0 +1,98 @@
+{
+	"head":{
+		"title":"Shared News"
+	},
+	"title": "Shared News Service",
+	"title_short": "Shared News",
+	"subtitle":"Open your company to mobile communication",
+
+	"order":["introduction", "features", "screenshots", "packages"],
+
+	"introduction":{
+		"title":"Introduction",
+		"text":"Shared News allows any company or association to broadcast messages on the equipments of their clients. <br />
+		Indeed, mobile applications are known for their efficiency, and are used by big companies. <br />
+ 		<br />
+		Offered as a service, you simply manage your messages and your costs."
+	},
+
+	"features":{
+		"title":"Features",
+		"text":"Shared News, the tools for your company",
+		"pages":[
+			{
+				"length":4,
+				"list":[
+					{
+						"icon":"eye",
+						"title":"Manage",
+						"text":"Watch how many user you have and how they are interested in your messages"
+					},
+					{
+						"icon":"dollar",
+						"title":"Simple cost",
+						"text":"Choose your package and upgrade if you grow"
+					},
+					{
+						"icon":"sliders",
+						"title":"Template with HTML",
+						"text":"Customize your messages with your own templates"
+					},
+					{
+						"icon":"link",
+						"title":"Rich Content",
+						"text":"Add links and images to your message"
+					}
+				]
+			}
+		]
+	},
+
+	"screenshots":{
+		"title":"Screen shots",
+		"text":"How is the client application",
+		"images":["slide1.png","slide2.png","slide3.png"]
+	},
+
+	"packages":{
+		"title":"Packages",
+		"text":"",
+		"list":[
+			{
+				"title":"Open Test",
+				"price":"0 $",
+				"monthly":"monthly",
+				"details":[
+					{
+						"text":"Free use during the test phase",
+						"scratched":false
+					},
+					{
+						"text":"100 messages users",
+						"small":"e.g. 20 users with 5 messages",
+						"scratched":false
+					}
+				]
+			}
+		]
+	},
+
+	"contact":{
+		"title":"get in touch",
+		"text":"Get your account",
+		"links":{
+			"mail":"https://shop.sinenco.com/contact.php",
+			"facebook":"https://www.facebook.com/sinenco",
+			"twitter":"https://twitter.com/sinenco",
+		}
+	},
+
+	"translations":{
+		"Introduction":"Introduction",
+		"Download_now": "Download Now",
+		"learn_more": "Learn more",
+		"Features": "Features",
+		"Screenshots":"Screenshots",
+		"Packages":"Packages"
+	}
+}

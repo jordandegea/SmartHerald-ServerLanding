@@ -1,0 +1,97 @@
+{
+	"head":{
+		"title":"Shared News"
+	},
+	"title": "Shared News Service",
+	"title_short": "Shared News",
+	"subtitle":"Ouvrez votre entreprise à la communication mobile",
+
+	"order":["introduction", "features", "screenshots", "packages"],
+
+	"introduction":{
+		"title":"Introduction",
+		"text":"Shared News permet à toute entreprise, société ou association de diffuser des messages sur les équipements de leurs clients. <br />
+		En effet, les applications mobiles sont reconnus pour leur efficacité, et sont utilisées pas les grandes entreprises. <br /><br />
+		Proposé en tant que service, vous gérez simplement vos messages et vos coûts. <br />"
+	},
+
+	"features":{
+		"title":"Fonctionnalités",
+		"text":"Shared News, l'outil de communication pour votre société",
+		"pages":[
+			{
+				"length":4,
+				"list":[
+					{
+						"icon":"eye",
+						"title":"Gestion",
+						"text":"Vous voyez le nombre d'utilisateur et vous savez s'ils sont intéressé par vos messages"
+					},
+					{
+						"icon":"dollar",
+						"title":"Coûts simples",
+						"text":"Choisissez vos options et surclassez les quand vous grandissez"
+					},
+					{
+						"icon":"sliders",
+						"title":"Modèles HTML",
+						"text":"Personnalisez vos messages avec votre propre charte graphique"
+					},
+					{
+						"icon":"link",
+						"title":"Contenu",
+						"text":"Ajouter des liens et des images à vos message"
+					}
+				]
+			}
+		]
+	},
+
+	"screenshots":{
+		"title":"Capture d'écran",
+		"text":"Que voit vos clients",
+		"images":["slide1.png","slide2.png","slide3.png"]
+	},
+
+	"packages":{
+		"title":"Packs",
+		"text":"Everyone has different needs",
+		"list":[
+			{
+				"title":"Test Ouvert",
+				"price":"0 $",
+				"monthly":"monthly",
+				"details":[
+					{
+						"text":"Utilisation gratuite pendant la phase de test",
+						"scratched":false
+					},
+					{
+						"text":"100 messages utilisateurs",
+						"small":"exemple: 20 utilisateurs avec 5 messages",
+						"scratched":false
+					}
+				]
+			}
+		]
+	},
+
+	"contact":{
+		"title":"Contactez nous",
+		"text":"Plus d'informations ? ",
+		"links":{
+			"mail":"https://shop.sinenco.com/contact.php",
+			"facebook":"https://www.facebook.com/sinenco",
+			"twitter":"https://twitter.com/sinenco",
+		}
+	},
+
+	"translations":{
+		"Introduction":"Introduction",
+		"Download_now": "Téléchargez",
+		"learn_more": "En savoir plus",
+		"Features": "Fonctionnalités",
+		"Screenshots":"Captures d'écran",
+		"Packages":"Packs"
+	}
+}
