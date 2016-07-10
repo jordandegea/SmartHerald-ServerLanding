@@ -9,7 +9,7 @@ all: ${TEMPLATES}
 
 
 templates/%_: templates/%_fr templates/%_en
-	cp flag_page/index.html templates/$*/index.html
+	#cp flag_page/index.html templates/$*/index.html
 
 templates/%_fr:
 	php ./tools/smartycli/smarty-cli.php \
@@ -21,4 +21,5 @@ templates/%_en:
 	php ./tools/smartycli/smarty-cli.php \
 	-i templates/$*/model.tpl \
 	-d=configs/en.json \
-	--output=templates/$*/en.html
+	--output=templates/$*/en.html && \
+	cp templates/$*/en.html templates/$*/index.html
