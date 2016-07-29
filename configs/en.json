@@ -1,16 +1,16 @@
 {
 	"head":{
-		"title":"Shared News"
+		"title":"Smart Herald"
 	},
-	"title": "Shared News Service",
-	"title_short": "Shared News",
+	"title": "Smart Herald Service",
+	"title_short": "Smart Herald",
 	"subtitle":"Open your company to mobile communication",
 
 	"order":["introduction", "features", "screenshots", "packages"],
 
 	"introduction":{
 		"title":"Introduction",
-		"text":"Shared News allows any company or association to broadcast messages on the equipments of their clients. <br />
+		"text":"Smart Herald allows any company or association to broadcast messages on the equipments of their clients. <br />
 		Indeed, mobile applications are known for their efficiency, and are used by big companies. <br />
  		<br />
 		Offered as a service, you simply manage your messages and your costs."
@@ -18,7 +18,7 @@
 
 	"features":{
 		"title":"Features",
-		"text":"Shared News, the tools for your company",
+		"text":"Smart Herald, the tools for your company",
 		"pages":[
 			{
 				"length":4,
@@ -72,7 +72,9 @@
 						"small":"e.g. 20 users with 5 messages",
 						"scratched":false
 					}
-				]
+				],
+				"link": "mailto:admin@sinenco.com?subject=Smart Herald - Ask account&body=First Name: %0ALast Name: %0ACompany Name: %0A%0A<Your Message>",
+				"link_title": "email: admin@sinenco.com"
 			}
 		]
 	},

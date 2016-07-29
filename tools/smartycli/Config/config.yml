@@ -2,5 +2,5 @@
 # Configuration file for the smarty CLI
 
 smarty: {
-	root: /Volumes/Donnees/Projets/SharedNews/Developpements/ServerApps/LandingPage/tools/smarty
+	root: /Volumes/Donnees/Projets/SmartHerald/Developpements/ServerApps/LandingPage/tools/smarty
 }

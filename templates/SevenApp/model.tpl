@@ -441,7 +441,7 @@
                                     </li>
                                 {/foreach}
                                 </ul>
-                                <a href="#" class="btn btn-sign-up btn-block">Sign now</a>
+                                <a href="{$package.link}" class="btn btn-sign-up btn-block">{$package.link_title}</a>
                             </div>
                         </div>
                     </div>

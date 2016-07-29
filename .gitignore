@@ -1,2 +1,8 @@
 templates_c
 dists
+
+npm-debug.log
+
+templates/SevenApp/en.html
+templates/SevenApp/fr.html
+templates/SevenApp/index.html
