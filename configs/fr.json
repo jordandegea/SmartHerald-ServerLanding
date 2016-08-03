@@ -5,14 +5,15 @@
 	"title": "Smart Herald Service",
 	"title_short": "Smart Herald",
 	"subtitle":"Ouvrez votre entreprise à la communication mobile",
+	"previews":["slide1_fr.png","slide2_fr.png"],
 
 	"order":["introduction", "features", "screenshots", "packages"],
 
 	"introduction":{
 		"title":"Introduction",
-		"text":"Smart Herald permet à toute entreprise, société ou association de diffuser des messages sur les équipements de leurs clients. <br />
+		"text":"Smart Herald permet à toute entreprise, société ou association de diffuser des messages sur le téléphone, la tablette ou l'ordinateur de leurs clients grâce une application qui leur est dédié. <br />
 		En effet, les applications mobiles sont reconnus pour leur efficacité, et sont utilisées pas les grandes entreprises. <br /><br />
-		Proposé en tant que service, vous gérez simplement vos messages et vos coûts. <br />"
+		Proposé en tant que service, vous gérez simplement vos messages, vos coûts, et pouvez bénéficier de votre propre application. <br />"
 	},
 
 	"features":{
@@ -25,22 +26,22 @@
 					{
 						"icon":"eye",
 						"title":"Gestion",
-						"text":"Vous voyez le nombre d'utilisateur et vous savez s'ils sont intéressé par vos messages"
+						"text":"Gestion simple des utilisateurs et des messages. "
 					},
 					{
 						"icon":"dollar",
 						"title":"Coûts simples",
-						"text":"Choisissez vos options et surclassez les quand vous grandissez"
+						"text":"Choisissez vos options. Envoyez vos messages. "
 					},
 					{
 						"icon":"sliders",
 						"title":"Modèles HTML",
-						"text":"Personnalisez vos messages avec votre propre charte graphique"
+						"text":"Personnalisez vos messages avec votre propre charte graphique. "
 					},
 					{
 						"icon":"link",
 						"title":"Contenu",
-						"text":"Ajouter des liens et des images à vos message"
+						"text":"Ajouter des liens et des images à vos messages. "
 					}
 				]
 			}
@@ -50,18 +51,23 @@
 	"screenshots":{
 		"title":"Capture d'écran",
 		"text":"Que voit vos clients",
-		"images":["slide1.png","slide2.png","slide3.png"]
+		"images":["screen1.png","screen2.png","screen3.png","screen4.png"]
 	},
 
 	"packages":{
 		"title":"Packs",
-		"text":"Everyone has different needs",
+		"text":"Utilisation gratuite en ce moment. ",
 		"list":[
 			{
 				"title":"Test Ouvert",
-				"price":"0 $",
-				"monthly":"monthly",
+				"price":"Gratuit",
 				"details":[
+					{
+						"text":"Envoyez-nous un mail pour créer votre accès gratuit",
+						"scratched":false
+					}
+				],
+				"// details":[
 					{
 						"text":"Utilisation gratuite pendant la phase de test",
 						"scratched":false
@@ -82,14 +88,14 @@
 		"title":"Contactez nous",
 		"text":"Plus d'informations ? ",
 		"links":{
-			"mail":"https://shop.sinenco.com/contact.php",
+			"mail":"mailto:admin@sinenco.com",
 			"facebook":"https://www.facebook.com/sinenco",
 			"twitter":"https://twitter.com/sinenco",
 		}
 	},
 
 	"translations":{
-		"Introduction":"Introduction",
+		"Introduction":"Intro",
 		"Download_now": "Téléchargez",
 		"WebApp":"Application Web",
 		"learn_more": "En savoir plus",

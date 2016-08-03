@@ -22,4 +22,4 @@ templates/%_en:
 	-i templates/$*/model.tpl \
 	-d=configs/en.json \
 	--output=templates/$*/en.html && \
-	cp templates/$*/en.html templates/$*/index.html
+	cp templates/$*/fr.html templates/$*/index.html

@@ -110,15 +110,15 @@
 
                                         <!-- Wrapper for slides -->
                                         <div class="carousel-inner">
-                                            <div class="item active">
-                                                <img src="img/slide1.png" alt="..." class="img-responsive">
-                                            </div>
-                                            <div class="item">
-                                                <img src="img/slide2.png" alt="..." class="img-responsive">
-                                            </div>
-                                            <div class="item">
-                                                <img src="img/slide3.png" alt="..." class="img-responsive">
-                                            </div>
+                                            {foreach from=$previews item=preview name=previews}
+                                                {if $smarty.foreach.previews.index == 0}
+                                                    <div class="item active">
+                                                {else}
+                                                    <div class="item">
+                                                {/if}
+                                                    <img src="img/{$preview}" alt="..." class="img-responsive">
+                                                </div>
+                                            {/foreach}
                                         </div>
 
                                         <!-- Controls -->
@@ -399,7 +399,7 @@
             </div>
             <div id="owl-screenshots" class="owl-carousel text-center">
                 {foreach from=$screenshots.images item=image}
-                    <div><img src="img/{$image}" alt=""></div>
+                    <div><img src="img/{$image}" alt="" ></div>
                 {/foreach}
             </div>
         </section>

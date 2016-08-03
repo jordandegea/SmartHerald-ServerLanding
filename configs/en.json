@@ -5,15 +5,14 @@
 	"title": "Smart Herald Service",
 	"title_short": "Smart Herald",
 	"subtitle":"Open your company to mobile communication",
+	"previews":["slide1_fr.png","slide2_fr.png"],
 
 	"order":["introduction", "features", "screenshots", "packages"],
 
 	"introduction":{
 		"title":"Introduction",
-		"text":"Smart Herald allows any company or association to broadcast messages on the equipments of their clients. <br />
-		Indeed, mobile applications are known for their efficiency, and are used by big companies. <br />
- 		<br />
-		Offered as a service, you simply manage your messages and your costs."
+		"text":"Smart Herald allows any company, partnership or association to broadcast messages on the phone, the tablet or the computer of their customers through an application that is dedicated to them. <br />
+		Indeed, mobile applications are known for their efficiency, and are used by big companies. Offered as a service, you simply manage your messages and your costs, and you can get your own application."
 	},
 
 	"features":{
@@ -26,7 +25,7 @@
 					{
 						"icon":"eye",
 						"title":"Manage",
-						"text":"Watch how many user you have and how they are interested in your messages"
+						"text":"Simple gestion of users and messages. "
 					},
 					{
 						"icon":"dollar",
@@ -51,7 +50,7 @@
 	"screenshots":{
 		"title":"Screen shots",
 		"text":"How is the client application",
-		"images":["slide1.png","slide2.png","slide3.png"]
+		"images":["screen1.png","screen2.png","screen3.png","screen4.png"]
 	},
 
 	"packages":{
@@ -60,9 +59,14 @@
 		"list":[
 			{
 				"title":"Open Test",
-				"price":"0 $",
-				"monthly":"monthly",
+				"price":"Free",
 				"details":[
+					{
+						"text":"Send us an email to create your free access",
+						"scratched":false
+					}
+				],
+				"// details":[
 					{
 						"text":"Free use during the test phase",
 						"scratched":false
@@ -83,7 +87,7 @@
 		"title":"get in touch",
 		"text":"Get your account",
 		"links":{
-			"mail":"https://shop.sinenco.com/contact.php",
+			"mail":"mailto:admin@sinenco.com",
 			"facebook":"https://www.facebook.com/sinenco",
 			"twitter":"https://twitter.com/sinenco",
 		}
