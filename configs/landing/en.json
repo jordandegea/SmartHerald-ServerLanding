@@ -1,0 +1,127 @@
+{
+	"head":{
+		"title":"Smart Herald"
+	},
+	"title": "Smart Herald Service",
+	"title_short": "Smart Herald",
+	"subtitle":"Open your company to mobile communication",
+	"previews":["slide1_fr.png","slide2_fr.png"],
+
+	"order":["introduction", "features", "screenshots", "packages"],
+
+	"introduction":{
+		"title":"Introduction",
+		"text":"Smart Herald sends messages on phones, tablets and computers. 
+		This is a service open to all companies and associations. <br />
+		<br />
+		As a company, you get powerful tools to manage your content and your users. <br />
+		<br />
+		Your customers choose to download applications, so they choose to receive your news."
+	},
+
+	"features":{
+		"title":"Features",
+		"text":"Smart Herald, the tools for your company",
+		"pages":[
+			{
+				"length":2,
+				"list":[
+					{
+						"icon":"eye",
+						"title":"Manage",
+						"text":"Simple gestion of users and messages. "
+					},
+					{
+						"icon":"dollar",
+						"title":"Simple cost",
+						"text":"Choose your package and upgrade if you grow"
+					}]
+			},
+			{
+				"length":2,
+				"list":[
+					{
+						"icon":"sliders",
+						"title":"Template with HTML",
+						"text":"Customize your messages with your own templates"
+					},
+					{
+						"icon":"link",
+						"title":"Rich Content",
+						"text":"Add links and images to your message"
+					}
+				]
+			},{
+				"length":2,
+				"list":[
+					{
+						"icon":"mobile",
+						"title":"Applications for all",
+						"text":"The Smart Herald basic application is free. It allows to get informed by any company using the Smart Herald service. Ideal to start."
+					},
+					{
+						"icon":"mobile",
+						"title":"Applications personnalisées",
+						"text":"Smart Herald propose une version simplifiée de ces applications. Vous pouvez demander votre propre application à moindre coûts. "
+					}
+				]
+			}
+		]
+	},
+
+	"screenshots":{
+		"title":"Screen shots",
+		"text":"How is the client application",
+		"images":["screen1.png","screen2.png","screen3.png","screen4.png","screen5.png","screen6.png"]
+	},
+
+	"packages":{
+		"title":"Packages",
+		"text":"",
+		"list":[
+			{
+				"title":"Open Test",
+				"price":"Free",
+				"details":[
+					{
+						"text":"Send us an email to create your free access",
+						"scratched":false
+					}
+				],
+				"// details":[
+					{
+						"text":"Free use during the test phase",
+						"scratched":false
+					},
+					{
+						"text":"100 messages users",
+						"small":"e.g. 20 users with 5 messages",
+						"scratched":false
+					}
+				],
+				"link": "mailto:admin@sinenco.com?subject=Smart Herald - Ask account&body=First Name: %0ALast Name: %0ACompany Name: %0A%0A<Your Message>",
+				"link_title": "email: admin@sinenco.com"
+			}
+		]
+	},
+
+	"contact":{
+		"title":"get in touch",
+		"text":"Get your account",
+		"links":{
+			"mail":"mailto:admin@sinenco.com",
+			"facebook":"https://www.facebook.com/smartherald",
+			"twitter":"https://twitter.com/Smart_Herald",
+		}
+	},
+
+	"translations":{
+		"Introduction":"Introduction",
+		"Download_now": "Download Now",
+		"WebApp":"Web Application",
+		"learn_more": "Learn more",
+		"Features": "Features",
+		"Screenshots":"Screenshots",
+		"Packages":"Packages"
+	}
+}

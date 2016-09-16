@@ -1,0 +1,46 @@
+{
+	"head":{
+		"title":"Smart Herald"
+	},
+	"lang":"fr",
+	"title": "Smart Herald",
+	"title_short": "Smart Herald",
+	"subtitle":"Ouvrez votre entreprise à la communication mobile",
+	
+	"description_client": "<b>Vous êtes une entreprise ?</b> Smart Herald vous permet d'envoyer des messages sur le téléphone et la tablette de vos utilisateurs. Simple et efficace, Smart Herald facilite votre démarche de fidélisation. ",
+	"description_user": "<b>Vous êtes un utilisateur ?</b> Smart Herald vous permet de suivre vos entreprises préférées. Grâce à l'application Smart Herald, vous décidez de recevoir ou non les nouveautés des entreprises utilisant le service Smart Herald",
+	
+	"landing_link":"Description complète",
+
+	"apps":{
+		"client":{
+			"title":"Entreprises",
+			"description":"Accédez à votre espace d'administration pour envoyer vos messages et gérer vos utilisateurs",
+			"links":{
+				"web":"http://smartherald.com/dashboard"
+			}
+		},
+		"user":{
+			"title":"Utilisateurs",
+			"description":"Utilisez nos applications pour recevoir vos messages",
+			"links":{
+				"android":"https://play.google.com/store/apps/details?id=com.sinenco.smartherald",
+				"ios":"https://itunes.apple.com/fr/app/smart-herald/id1139174211?mt=8",
+				"web":"http://smartherald.com/app"
+			}
+		}
+	},
+	
+	"CGU": "CGU (Utilisateurs)",
+	"CGV": "CGV (Entreprises)",
+	
+	"contact":{
+		"title":"Contactez nous",
+		"text":"Plus d'informations ? ",
+		"links":{
+			"mail":"mailto:admin@sinenco.com",
+			"facebook":"https://www.facebook.com/smartherald",
+			"twitter":"https://twitter.com/Smart_Herald",
+		}
+	},
+}

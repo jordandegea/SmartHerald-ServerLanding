@@ -1,0 +1,126 @@
+{
+	"head":{
+		"title":"Smart Herald"
+	},
+	"title": "Smart Herald Service",
+	"title_short": "Smart Herald",
+	"subtitle":"Ouvrez votre entreprise à la communication mobile",
+	"previews":["slide1_fr.png","slide2_fr.png"],
+
+	"order":["introduction", "features", "screenshots", "packages"],
+
+	"introduction":{
+		"title":"Introduction",
+		"text":"Smart Herald permet d’envoyer des messages sur des téléphones, des tablettes et des ordinateurs. 
+		C'est un service ouvert à toutes les entreprises et associations. <br />
+		<br />
+		En tant qu'Entreprise, vous bénéficiez d'outils puissants pour gérer vos contenus et vos utilisateurs. <br />
+		<br />
+		Vos clients choisissent de télécharger les applications, ils choisissent donc de recevoir vos nouvelles. "
+	},
+
+	"features":{
+		"title":"Fonctionnalités",
+		"text":"Smart Herald, l'outil de communication pour votre société",
+		"pages":[
+			{
+				"length":2,
+				"list":[
+					{
+						"icon":"eye",
+						"title":"Gestion",
+						"text":"Gestion simple des utilisateurs et des messages. Visualisez le nombre et les retours sur vos messages"
+					},
+					{
+						"icon":"dollar",
+						"title":"Coûts simples",
+						"text":"Choisissez vos options. Envoyez vos messages. "
+					}]
+			},{
+				"length":2,
+				"list":
+				[{
+						"icon":"sliders",
+						"title":"Modèles HTML",
+						"text":"Personnalisez vos messages avec votre propre charte graphique. "
+					},
+					{
+						"icon":"link",
+						"title":"Contenu",
+						"text":"Ajoutez des liens et des images à vos messages. "
+					}
+				]
+			},{
+				"length":2,
+				"list":[
+					{
+						"icon":"mobile",
+						"title":"Applications pour tous",
+						"text":"L'application de base Smart Herald est gratuite. Elle permet de suivre n'importe quelle entreprise utilisant le service Smart Herald. Idéal pour commencer. "
+					},
+					{
+						"icon":"mobile",
+						"title":"Applications personnalisées",
+						"text":"Smart Herald propose une version simplifiée de ses applications. Vous pouvez demander votre propre application à moindre coûts. "
+					}
+				]
+			}
+		]
+	},
+
+	"screenshots":{
+		"title":"Capture d'écran",
+		"text":"Que voient vos clients",
+		"images":["screen1.png","screen2.png","screen3.png","screen4.png","screen5.png","screen6.png"]
+	},
+
+	"packages":{
+		"title":"Packs",
+		"text":"Utilisation gratuite en ce moment. ",
+		"list":[
+			{
+				"title":"Beta Test",
+				"price":"Gratuit",
+				"details":[
+					{
+						"text":"Envoyez-nous un e-mail pour demander votre accès gratuit",
+						"scratched":false
+					}
+				],
+				"// details":[
+					{
+						"text":"Utilisation gratuite pendant la phase de test",
+						"scratched":false
+					},
+					{
+						"text":"100 messages utilisateurs",
+						"small":"exemple: 20 utilisateurs avec 5 messages",
+						"scratched":false
+					}
+				],
+				"link": "mailto:admin@sinenco.com?subject=Smart Herald - Demande de compte&body=Prénom: %0ANom: %0AEntreprise: %0A%0A<Votre Message>",
+				"link_title": "email: admin@sinenco.com"
+			}
+		]
+	},
+
+	"contact":{
+		"title":"Contactez nous",
+		"text":"Plus d'informations ? ",
+		"links":{
+			"mail":"mailto:admin@sinenco.com",
+			"facebook":"https://www.facebook.com/smartherald",
+			"twitter":"https://twitter.com/Smart_Herald",
+		}
+	},
+
+	"translations":{
+		"Introduction":"Intro",
+		"Download_now": "Téléchargez",
+		"WebApp":"Application Web",
+		"learn_more": "En savoir plus",
+		"Features": "Fonctionnalités",
+		"Screenshots":"Aperçus",
+		"Packages":"Packs"
+	}
+}
